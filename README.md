@@ -11,11 +11,11 @@ Dataset para detecção de armas e objetos similares (pistola, faca, celular, ca
 
 <!-- Infos -->
 <h3> 👩‍💻 Infos: </h3>
-<p> Dataset derivado dos dados públicos Weapon Detection - Weapons and similar handled objects - Sohas_weapon-Detection-YOLOv5 do [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/transferencia/open-data/24705/). Disponibilizado no repositório [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection). </p>
+Foi criado um dataset a partir dos dados públicos Weapon Detection - Weapons and similar handled objects - Sohas_weapon-Detection-YOLOv5 do [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/transferencia/open-data/24705/).
 
 <br>
 <!-- Dados -->
 <h3> 💻 Dados: </h3>
 <p align="left">
-  <code><img src="https://i.postimg.cc/TPXbzFHk/dados-reduzidos.png"></code>
+  <code><img src="https://i.postimg.cc/cL5fKTrL/dados-reduzidos.**png**"></code>
 </p><br>
